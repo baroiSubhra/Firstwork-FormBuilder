@@ -1,0 +1,11 @@
+export enum FORM_INPUT_TYPES {
+  INPUT = "INPUT",
+  TEXT = "TEXT",
+  NUMBER = "NUMBER",
+  SELECT = "SELECT",
+  RADIO = "RADIO",
+  ADDER = "ADDER",
+  CHECKBOX = "CHECKBOX",
+  EMAIL = "EMAIL",
+  URL = "URL",
+}
